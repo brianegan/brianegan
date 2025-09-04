@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Brian 👋
 
-<!--
-**brianegan/brianegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web, mobile, and desktop application engineer with extensive experience.
+I've led teams at Superlist, SoundCloud, and Zappos, and written some of the
+most popular open source packages for Dart and Flutter, such as:
 
-Here are some ideas to get you started:
+- 🛠️ [Flutter Architecture Samples](https://github.com/brianegan/flutter_architecture_samples)
+- ⚡ [RxDart](https://github.com/ReactiveX/rxdart)
+- 🔄 [Redux.dart](https://github.com/fluttercommunity/redux.dart) & [flutter_redux](https://github.com/brianegan/flutter_redux)
+- 📦 [scoped_model](https://github.com/brianegan/scoped_model)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now, I'm looking for a new challenge. Need an experienced Engineer or
+Engineering Manager?
+
+*[Get in touch.](mailto:github@brianegan.com)*
